@@ -5,7 +5,7 @@ import {AuthorsComponent} from "./authors.component";
 
 @Component({
     selector: 'my-app',
-    template: '<h1>Hello nigga!!dasdasd</h1>' +
+    template: '<h1>Hello nigga!!!!!dasdasd</h1>' +
     '<courses></courses>  ' +
     '<auth></auth>',
 
